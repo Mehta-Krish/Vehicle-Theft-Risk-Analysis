@@ -9,12 +9,12 @@ This project focuses on analyzing vehicle theft patterns in New Zealand using a 
                     <br><strong><h3>🐱 Steps Followed :</h3></strong><hr>
                             ✅ Understood and collect the dataset from Maven Analytics.
                         <br>✅ Imported the raw datasets using pandas.
-                        <br>✅ Handeled missing values & Cleaned the datasets appropriately.
+                        <br>✅ Handled missing values & Cleaned the datasets appropriately.
                         <br>✅ Implemented data validation.
                         <br>✅ Loaded the cleaned & valid datasets into MySQL database.
-                        <br>✅ Performed EDA using Mysql Queries.
+                        <br>✅ Performed EDA using MySQL queries.
                         <br>✅ Imported cleaned & valid data into Power BI.
-                        <br>✅ Performed Feature Engineering (Measures, Calender tables) Using Power Query.
+                        <br>✅ Performed Feature Engineering (Measures, Calendar tables) Using Power Query.
                         <br>✅ Finally designed & developed the dashboard using Power Bi.
                     <br><br><strong><h3>🐱 Key Analysis Performed :</h3></strong><hr><ol>
                     <li><strong>KPI Analysis –</strong> Total Vehicles Stolen, Per Day Reports, Theft Rate, Most Stolen Vehicle Type & Model Year.
@@ -27,7 +27,7 @@ This project focuses on analyzing vehicle theft patterns in New Zealand using a 
                     <li> <strong>Color Analysis –</strong> Identified which vehicle colors are most targeted.
                     <li> <strong>Day-wise Analysis –</strong> Analyzed theft trends across days of the week.
                     <li> <strong>Model Year Analysis –</strong> Identified most targeted vehicle manufacturing years.
-                    <li> <strong>Theft Rate Analysis –</strong> Indentified companies having high theft ratios.
+                    <li> <strong>Theft Rate Analysis –</strong> Identified companies having high theft ratios.
                     <li> <strong>Population vs Theft Analysis –</strong> Correlation between population density and theft volume.  
                     </ol>
                     <br><br><strong><h3>🐱 Insights :</h3></strong><hr><ol>
