@@ -14,7 +14,7 @@ This project focuses on analyzing vehicle theft patterns in New Zealand using a 
                         <br>✅ Loaded the cleaned & valid datasets into MySQL database.
                         <br>✅ Performed EDA using MySQL queries.
                         <br>✅ Imported cleaned & valid data into Power BI.
-                        <br>✅ Performed Feature Engineering (Measures, Calendar tables) Using Power Query.
+                        <br>✅ Performed data modelling and created DAX measures along with a calendar table.
                         <br>✅ Finally designed & developed the dashboard using Power Bi.
                     <br><br><strong><h3>🐱 Key Analysis Performed :</h3></strong><hr><ol>
                     <li><strong>KPI Analysis –</strong> Total Vehicles Stolen, Per Day Reports, Theft Rate, Most Stolen Vehicle Type & Model Year.
